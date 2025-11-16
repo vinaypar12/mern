@@ -1,0 +1,16 @@
+css 
+em  parent element
+rem root element html default 16  - in responsive most used which not affect parent
+px
+
+//📌 Quick Professional Recommendation (My Best Advice)
+
+Use this combo:
+
+🟩 Font sizes: rem
+🟧 Spacing (padding/margin): rem or em
+🟦 Borders: px
+🟨 Layout width/height: %, vh, vw
+🟪 Icons: px or em
+
+github.com/nikhilsharkma2407/batch-65
